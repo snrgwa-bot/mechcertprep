@@ -155,3 +155,5 @@ footer.site nav a:hover{color:var(--text)}
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
 }
+.hero .wrap>*{min-width:0}
+.pills li{max-width:100%}
